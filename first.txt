@@ -1,1 +1,3 @@
 C:\Users\svetoslav.borisov\.gradle\caches\modules-2\files-2.1\com.google.api-ads\adwords-axis\2.22.0\66e47932414903ed1d8d5e61e88ca4cda67c59\adwords-axis-2.22.0-sources.jar!\com\google\api\ads\adwords\axis\v201609\cm\NegativeCampaignCriterion.java
+
+change here
